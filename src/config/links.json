@@ -1,0 +1,8 @@
+{
+  "webhooks": [
+    {
+      "name": "default",
+      "url": ""
+    }
+  ]
+}
